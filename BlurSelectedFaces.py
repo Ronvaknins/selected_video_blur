@@ -7,8 +7,8 @@ import numpy as np
 
 def BlurFaces(videofile,selected_ppl):
     """
-    :param videofile:
-    :param selected_ppl:
+    :param videofile: mp4 video file
+    :param selected_ppl: array of selected people [0...n] user choice
     First we define the codec and create VideoWriter object to save the video.
     Then we create an array of face encodings for selected faces to blur.
     Afterward we iterate each frame and blur the selected faces from the frame.
