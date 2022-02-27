@@ -33,7 +33,7 @@ Operation:
    ![image](https://user-images.githubusercontent.com/48179479/155890785-aeca2b63-6150-43f3-a833-2aaab80aff6b.png)
       
       
-Final Results (Person 0 selected to be blured):
+Final Results (Person 1 selected to be blured):
 
 ![output_1_3](https://user-images.githubusercontent.com/48179479/155891282-12b74f7d-9787-46d9-acf4-30eabf70fe18.gif)
 
