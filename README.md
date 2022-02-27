@@ -1,4 +1,4 @@
-# Blur selected people from video
+# Blur selected people in a video
 Recognize face's and select which face you want to blur in a video file
 
 
