@@ -46,4 +46,4 @@ we used the face_recognition library:
 https://github.com/ageitgey/face_recognition
 
 selected_video_blur
-
+created by Ron Vaknin and Michael Ifargan
