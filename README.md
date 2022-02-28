@@ -39,7 +39,7 @@ Final Results (Person 1 selected to be blured):
 
 controling the blur ammount using this line in "BlurSelectedPeople.py" change the X to the amount
 
-    frame[top-25:bottom+25, left-25:right+25] = cv2.blur(frame[top-25:bottom+25, left-25:right+25], (X, X))
+    frame[top-25:bottom+25, left-25:right+25] = cv2.blur(frame[top-25:bottom+25, left-25:right+25], **(X, X)**)
 
 we used the face_recognition library:
 
