@@ -37,9 +37,9 @@ Operation:
 
 ![output_1_3](https://user-images.githubusercontent.com/48179479/155891282-12b74f7d-9787-46d9-acf4-30eabf70fe18.gif)
 
-controling the **blur ammount** using this line in "BlurSelectedPeople.py" change the X to the amount
+controling the **blur ammount** using this line 53 in "BlurSelectedPeople.py" change the X to the amount
 
-    frame[top-25:bottom+25, left-25:right+25] = cv2.blur(frame[top-25:bottom+25, left-25:right+25], (X, X))
+    53: frame[top-25:bottom+25, left-25:right+25] = cv2.blur(frame[top-25:bottom+25, left-25:right+25], (X, X))
 
 we used the face_recognition library:
 
